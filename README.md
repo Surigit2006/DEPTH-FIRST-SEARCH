@@ -68,6 +68,10 @@ Now, Queue becomes empty, So, terminate these process of iteration.
 
 </ol>
 
+## Program:
+<img width="244" height="429" alt="image" src="https://github.com/user-attachments/assets/ff4ff347-8bfc-41f9-b28d-1fb578f00c6f" />
+
+
 <hr>
 <h3>Sample Input</h3>
 <hr>
